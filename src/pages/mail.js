@@ -42,7 +42,7 @@ export default function MailPage() {
           <Styled.p sx={{fontSize: 0, color: 'primary', mt: 2}}>
             Not sure?{' '}
             <a
-              href="https://buttondown.email/jakewiesler/archive"
+              href="https://buttondown.email/jean-cs/archive"
               alt="Browse the archive"
               sx={{color: 'primary'}}
             >

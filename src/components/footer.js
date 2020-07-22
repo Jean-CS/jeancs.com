@@ -29,12 +29,12 @@ export default function Footer() {
             </Link>
           </div>
           <div>
-            <a
-              href="https://www.youtube.com/channel/UCQPW7EPRHF4Eb1Ei9I5Gf6A"
-              sx={{mr: 3}}
-            >
-              <AiFillYoutube sx={iconStyles} />
-            </a>
+            {/*<a*/}
+            {/*  href="https://www.youtube.com/channel/UCQPW7EPRHF4Eb1Ei9I5Gf6A"*/}
+            {/*  sx={{mr: 3}}*/}
+            {/*>*/}
+            {/*  <AiFillYoutube sx={iconStyles} />*/}
+            {/*</a>*/}
             <a href="https://github.com/Jean-CS" sx={{mr: 3}}>
               <AiOutlineGithub sx={iconStyles} />
             </a>
