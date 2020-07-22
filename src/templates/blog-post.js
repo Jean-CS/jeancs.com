@@ -229,7 +229,7 @@ function AboutMeCTA() {
       </div>
       <div sx={{textAlign: ['center', 'initial']}}>
         <Styled.h3 sx={{mt: 0}}>
-          Hey, I'm Jake!
+          Hey, I'm Jean!
           <span
             sx={{display: 'inline-block', pl: 2}}
             role="img"
@@ -239,12 +239,12 @@ function AboutMeCTA() {
           </span>
         </Styled.h3>
         <Styled.p sx={{mt: 2, fontSize: 2, lineHeight: '27px'}}>
-          I write about coding, the creative pursuit and becoming a better
-          human.{' '}
+          I write about the learning process, coding, life in general
+          and fun trivia.{' '}
           <Link to="/blog" sx={{color: 'primary'}}>
             Check out the blog
           </Link>{' '}
-          for more of my words and sentences.
+          for more of my mumbo jumbo.
         </Styled.p>
       </div>
     </div>
