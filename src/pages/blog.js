@@ -12,8 +12,8 @@ export default function BlogPage({data}) {
   return (
     <Layout breadcrumb="/blog">
       <Seo
-        title="Blog | Jake Wiesler"
-        description="An index of blog posts written by Jake Wiesler."
+        title="Blog | Jean Carlos"
+        description="An index of blog posts written by Jean Carlos."
         pageUrl="/blog"
       ></Seo>
       {posts.map(({node}) => (

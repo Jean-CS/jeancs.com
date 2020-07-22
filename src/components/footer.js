@@ -35,13 +35,13 @@ export default function Footer() {
             >
               <AiFillYoutube sx={iconStyles} />
             </a>
-            <a href="https://github.com/jakewies" sx={{mr: 3}}>
+            <a href="https://github.com/Jean-CS" sx={{mr: 3}}>
               <AiOutlineGithub sx={iconStyles} />
             </a>
-            <a href="https://twitter.com/jakewies" sx={{mr: 3}}>
+            <a href="https://twitter.com/Jean_CSx" sx={{mr: 3}}>
               <AiOutlineTwitter sx={iconStyles} />
             </a>
-            <a href="https://instagram.com/jakewies">
+            <a href="https://instagram.com/jean.santos37">
               <AiFillInstagram sx={iconStyles} />
             </a>
           </div>
@@ -53,7 +53,7 @@ export default function Footer() {
             fontSize: 0,
           }}
         >
-          © {new Date().getFullYear()} Jake Wiesler
+          © {new Date().getFullYear()} Jean Carlos
         </div>
       </Container>
     </footer>

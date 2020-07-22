@@ -26,7 +26,7 @@ export default function Header({breadcrumb}) {
           }}
         >
           <Link to="/" sx={{color: 'text', textDecoration: 'none'}}>
-            jakewies
+            jeancs
             <span sx={{color: 'lightgray'}}>{breadcrumb}</span>
           </Link>
         </h3>

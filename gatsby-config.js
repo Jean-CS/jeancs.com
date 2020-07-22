@@ -2,11 +2,11 @@ const remarkSlug = require('remark-slug')
 
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://jakewiesler.com`,
+    siteUrl: `https://jeancs.com`,
     social: {
-      github: 'jakewies',
-      twitter: 'jakewies',
-      instagram: 'jakewies',
+      github: 'Jean-CS',
+      twitter: 'Jean_CSx',
+      instagram: 'jean.santos37',
     },
   },
   plugins: [
@@ -95,7 +95,7 @@ module.exports = {
           }
           `,
             output: '/blog/rss.xml',
-            title: `Jake Wiesler's Blog RSS Feed`,
+            title: `Jean Carlos's Blog RSS Feed`,
           },
         ],
       },

@@ -11,7 +11,7 @@ export default function MailPage() {
   return (
     <Layout breadcrumb="/mail">
       <Seo
-        title="Jake Wiesler"
+        title="Jean Carlos"
         description="Sign up for my private email list."
         pageUrl="/mail"
       ></Seo>

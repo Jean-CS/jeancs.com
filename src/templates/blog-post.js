@@ -350,7 +350,7 @@ function ForHireCTA({visible}) {
         </Styled.p>
         <Styled.a
           sx={{fontSize: 1}}
-          href="mailto:jakewiesler@gmail.com?subject=Remote Work Inquiry"
+          href="mailto:jeansantosc@gmail.com?subject=Remote Work Inquiry"
         >
           Hire me
         </Styled.a>

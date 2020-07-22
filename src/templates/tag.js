@@ -13,7 +13,7 @@ export default function TagPage({pageContext, data}) {
   return (
     <Layout breadcrumb="/tags">
       <Seo
-        title={`${tag} | Jake Wiesler`}
+        title={`${tag} | Jean Carlos`}
         description={`An index of content with the tag ${tag}.`}
         pageUrl="/tags"
       ></Seo>

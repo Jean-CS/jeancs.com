@@ -8,7 +8,7 @@ export default function IndexPage() {
   return (
     <Layout breadcrumb=".com" showFooter={false}>
       <Seo
-        title="Jake Wiesler"
+        title="Jean Carlos"
         description="Front-end developer exploring human movement."
       />
       <section>
@@ -24,13 +24,13 @@ export default function IndexPage() {
         <Link sx={linkStyles} to="/mail">
           /mail
         </Link>
-        <Link sx={linkStyles} to="/now">
-          /now
-        </Link>
+        {/*<Link sx={linkStyles} to="/now">*/}
+        {/*  /now*/}
+        {/*</Link>*/}
         <Link sx={linkStyles} to="/contact">
           /contact
         </Link>
-        <a href="https://github.com/jakewies" sx={linkStyles}>
+        <a href="https://github.com/Jean-CS" sx={linkStyles}>
           /GitHub
         </a>
         <a
@@ -39,7 +39,7 @@ export default function IndexPage() {
         >
           /YouTube
         </a>
-        <a href="https://twitter.com/jakewies" sx={linkStyles}>
+        <a href="https://twitter.com/Jean_CSx" sx={linkStyles}>
           /Twitter
         </a>
         <a href="https://soundcloud.com/if_else" sx={linkStyles}>

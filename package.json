@@ -1,10 +1,10 @@
 {
-  "name": "jakewiesler.com",
+  "name": "jeancs.com",
   "private": true,
-  "description": "Personal website of Jake Wiesler.",
+  "description": "Personal website of Jean Carlos.",
   "version": "1.0.0",
-  "author": "Jake Wiesler <jakewiesler@gmail.com> (https://jakewiesler.com)",
-  "homepage": "https://github.com/jakewies/jakewiesler.com",
+  "author": "Jean Carlos <jeansantosc@gmail.com> (https://jeancs.com)",
+  "homepage": "https://github.com/Jean-CS/jeancs.com",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",

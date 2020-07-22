@@ -12,7 +12,7 @@ export default function TagsPage({data}) {
   return (
     <Layout breadcrumb="/tags">
       <Seo
-        title="Jake Wiesler"
+        title="Jean Carlos"
         description="An index of all content by topic."
         pageUrl="/tags"
       ></Seo>
