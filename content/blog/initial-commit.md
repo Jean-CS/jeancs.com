@@ -40,12 +40,10 @@ Every once in a while I also quite enjoy learning about UI/UX and best practices
 Lately the biggest inspiration for that is [@refactoringui](https://twitter.com/refactoringui)
 from the creators of [Tailwind CSS](https://twitter.com/tailwindcss)
 
-I come from an arts background - when I was a kid, the plan was to become a professional
+> I come from an arts background - when I was a kid, the plan was to become a professional
 concept artist/illustrator. As you may have guessed, this is plan B :) /s
 
----
-
-I would like to set at least one goal for this blog and that is:
+For this blog, I would like to set at least one goal:
 
 ### Write one post per month.
 
