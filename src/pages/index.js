@@ -9,13 +9,12 @@ export default function IndexPage() {
     <Layout breadcrumb=".com" showFooter={false}>
       <Seo
         title="Jean Carlos"
-        description="Front-end developer exploring human movement."
+        description="React & Python developer."
       />
       <section>
         <p sx={{m: 0, fontSize: 3, color: 'text'}}>
-          Front-end developer based in Orlando FL
+          React & Python developer based in 🌎
         </p>
-        <p sx={{m: 0, fontSize: 3, color: 'text'}}>Exploring human movement</p>
       </section>
       <nav sx={{display: 'inline-flex', flexDirection: 'column', pt: 4}}>
         <Link sx={linkStyles} to="/blog">
@@ -33,17 +32,14 @@ export default function IndexPage() {
         <a href="https://github.com/Jean-CS" sx={linkStyles}>
           /GitHub
         </a>
-        <a
-          href="https://www.youtube.com/channel/UCQPW7EPRHF4Eb1Ei9I5Gf6A"
-          sx={linkStyles}
-        >
-          /YouTube
-        </a>
+        {/*<a*/}
+        {/*  href="https://www.youtube.com/channel/UCQPW7EPRHF4Eb1Ei9I5Gf6A"*/}
+        {/*  sx={linkStyles}*/}
+        {/*>*/}
+        {/*  /YouTube*/}
+        {/*</a>*/}
         <a href="https://twitter.com/Jean_CSx" sx={linkStyles}>
           /Twitter
-        </a>
-        <a href="https://soundcloud.com/if_else" sx={linkStyles}>
-          /SoundCloud
         </a>
       </nav>
     </Layout>
